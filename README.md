@@ -1,1 +1,0 @@
-# 1kpl-koulutehtava
