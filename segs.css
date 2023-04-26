@@ -1,11 +1,13 @@
 :root {
 --main-color: #ecf0f1;
+--grad-1: #00308F;
+--grad-2: #00FFFF;
 --point-color: #555;
 --size: 5px;
 }
 
 .loader {
-background-color: var(--main-color);
+background: linear-gradient(--grad-1, --grad-2);
 overflow: hidden;
 width: 100%;
 height: 100%;
